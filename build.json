@@ -1,0 +1,10 @@
+{
+	"id": "comic_sans_ftw",
+	"version": "1.0",
+	"description": "Comic Sans FTW",
+	"categories": [
+		"design",
+		"font"
+	],
+	"compatible_from": "2018.4"
+}
